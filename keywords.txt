@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For ld_bu9332
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initLCD	KEYWORD2
+convDigs	KEYWORD2
+battery	KEYWORD2
+playMark	KEYWORD2
+colon	KEYWORD2
+setSegments	KEYWORD2
+ledPolling	KEYWORD2
+showNumber	KEYWORD2
+clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL2)
+#######################################
+number	LITERAL2
+digs	LITERAL2
